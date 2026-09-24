@@ -18,7 +18,7 @@ Repositório pessoal focado no treino de algoritmos imperativos em **Java vanill
 - [x] `somar(int[] v)`
 - [x] `media(int[] v)`
 - [x] `menor(int[] v)`
-- [ ] `maior(int[] v)`
+- [x] `maior(int[] v)`
 
 ### Bloco 2 — Intermediário
 - [x] `contarPares(int[] v)`
@@ -29,9 +29,9 @@ Repositório pessoal focado no treino de algoritmos imperativos em **Java vanill
 - [x] `copiar(int[] v)`
 
 ### Bloco 3 — Avançado
-- [ ] `temRepetido(int[] v)`
-- [ ] `removerRepetidos(int[] v)`
-- [ ] `bubbleSort(int[] v)`
+- [x] `temRepetido(int[] v)`
+- [X] `removerRepetidos(int[] v)`
+- [X] `bubbleSort(int[] v)`
 - [ ] `intersecao(int[] x, int[] y)`
 - [ ] `diferenca(int[] x, int[] y)`
 - [ ] `uniao(int[] x, int[] y)`
